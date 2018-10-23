@@ -1,7 +1,3 @@
-# wrnch take-home programming exam
-
-**This test is the property of wrnch Inc and is intended only for the named recipient who will not copy, reproduce or disclose it or any part of it.**
-
 ## Ground rules
 
 You may use your programming language of choice. You may only use your language's standard library, with the exception of possibly a third-party JSON parsing library (for C++ we recommend the single-header nlohmann json). Note that for Python, NumPy is a third-party library and is not allowed. You may consult language references, but no other online or printed material. It is more important to solve fewer problems well than more problems poorly. We are looking for code quality, among other things. Before the end of your allowed time, you must email us back your code with a description of how to use it.
